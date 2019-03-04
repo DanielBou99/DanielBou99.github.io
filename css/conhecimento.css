@@ -1,0 +1,30 @@
+.container h2 {
+    margin-bottom: 10px;
+}
+
+.linguagem-c {
+    text-align: center;
+}
+
+.linguagem-c img {
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.linguagem-python {
+    text-align: center;
+}
+
+.linguagem-python img {
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.html-css {
+    text-align: center;
+}
+
+.html-css img {
+    height: 100px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,19 @@
+.linkedin-logo img{
+    height: 100px;
+}
+
+.contatos {
+    text-align: center;
+}
+
+.github-logo img {
+    height: 120px;
+}
+
+.linkedin-logo {
+    border-bottom: 4px solid black;
+}
+
+.github-logo {
+    border-bottom: 4px solid black;
+}
